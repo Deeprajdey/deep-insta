@@ -1,7 +1,6 @@
 ## Screenshots
 
-![Screenshot-1](/screenshots/img1.png?raw=true "scrsht-1")
-![Screenshot-2](/screenshots/img2.png?raw=true "scrsht-2")
+<a href="https://ibb.co/Xsg1DxT"><img src="https://i.ibb.co/xj0WYqQ/img1.png" alt="img1" border="0"></a>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
